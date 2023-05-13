@@ -20,4 +20,4 @@ Ingeniero de Sistemas (Universidad del Cauca - Tesista en desarrollo de proyecto
 
 Habilidades de programación en lenguajes como: Python, JavaScript y PHP para el desarrollo de aplicaciones web y de escritorio. Con conocimientos en tecnologías como Angular, Django, Laravel y Magento para el desarrollo de aplicaciones web y cliente-servidor usando gestores de bases de datos Oracle y MySQL. Así como también el uso de sistemas Linux, contenedores Docker y git como sistema de control de versiones.
 
-- 🔭 Desarrollador Magento BackEnd - Soporte, customización y desarrollo de modulos - Integraciones de Buses de datos, SAP (B2C y B2B), Siigo, Envioclick, Coordinadora y demás API's de terceros.
+- 🔭 Desarrollador Magento BackEnd - Soporte, customización y desarrollo de módulos - Integraciones de Buses de datos, SAP (B2C y B2B), Siigo, Envioclick, Coordinadora y demás API's de terceros.
